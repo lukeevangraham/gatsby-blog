@@ -3,9 +3,9 @@ path: "/post-1/"
 category: "goals"
 tags: ["goals", "songs"]
 title: "Goals For 2010"
-date: "2019-01-10T00:00:00.000Z"
-summary: "In his book "Against All Odds" Chuck Norris emphasizes the importance of chasing after goals. Put...."
-images: ["images/1.jpg"]
+date: "2010-01-12T00:00:00.000Z"
+summary: "In his book 'Against All Odds' Chuck Norris emphasizes the importance of chasing after goals. Put..."
+images: ["images/norris.jpg"]
 ---
 
 In his book "Against All Odds" Chuck Norris emphasizes the importance of chasing after goals. Put simply he encourages us to set goals, visualize ourselves achieving them and then go for it.
