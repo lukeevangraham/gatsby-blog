@@ -1,23 +1,43 @@
 ---
 path: "/post-3/"
 category: "test-33"
-tags: ["tag"]
-title: "Lorem Ipsum"
-date: "2018-01-03T00:00:00.000Z"
-summary: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-images: ["images/1.jpg"]
+tags: ["music"]
+title: "New 'Eyes Up' EP"
+date: "2010-04-23T00:00:00.000Z"
+summary: "In 2009 I accepted a challenge from Worship Leader magazine to create something tangible that..."
+images: ["images/eyesup.jpg"]
 ---
 
-> Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
+In 2009 I accepted a challenge from Worship Leader magazine to create something tangible that inspires people to connect with God.  I wrote songs for my local church, LIFE Christian Fellowship in Chino California, to sing to God.  I hoped to record those songs so LIFE could use them to worship God during the week.
 
-> There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...
+Marco Sassoon, my mentor, found out about the project and offered to help.  Together we began emailing each other song ideas and refinements.  We introduced the new songs to the churches we serve.  Musicians Pili Bailey and Matthew James also contributed their talent to the songwriting process.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed porttitor orci, a porta augue. Vestibulum augue velit, interdum in sagittis vel, gravida volutpat erat. Suspendisse ultrices tellus lorem, rhoncus finibus nisl pharetra et. Morbi aliquam, massa in sagittis imperdiet, nisi metus consequat ipsum, eu congue mi ipsum vel ante. Proin consequat libero eu facilisis aliquet. Mauris viverra malesuada elit, at suscipit est ullamcorper sed. Integer commodo ultricies ligula, ut mattis elit tincidunt sit amet. Vivamus nec sapien sit amet turpis finibus feugiat. Ut nec felis dictum, porttitor nisl eget, imperdiet lacus. Aenean lobortis purus vitae consequat molestie. Pellentesque rhoncus nunc at semper ornare. Vivamus sagittis consequat imperdiet. Fusce a lorem in mauris iaculis fermentum. Maecenas fringilla id erat in varius. Duis imperdiet posuere mi. Donec accumsan ante sed turpis hendrerit, eget mattis massa dapibus.
+We crafted these six songs to encourage us to lift our eyes up to Heaven.
 
-Cras fermentum mollis condimentum. Nullam eu enim id quam rhoncus molestie. Mauris ut lectus ac sapien blandit egestas. Donec dictum ornare euismod. Vivamus ac augue tristique neque convallis eleifend. In sed massa est. Nullam consectetur dapibus tempor. Donec molestie ligula lacus, ultrices placerat elit tempor non. Nulla tempor consequat condimentum. Morbi sollicitudin nulla condimentum ex maximus, vel ultricies felis bibendum. Morbi et tellus ac erat cursus euismod.
+1.  Strength And Song - inspired by Exodus 15.  After Moses and the Israelites crossed the Red Sea out of Egypt they sang a song of celebration to the Lord.  This new take on Exodus 15 teaches about the power of singing scripture.  The catchy melody aims to get people singing and clapping.
 
-Proin dictum arcu id ultricies vestibulum. Nulla facilisi. Donec at nulla sed sapien egestas lacinia sed quis dui. In felis velit, efficitur at nibh eget, consequat commodo elit. Mauris porta, lectus at varius iaculis, metus erat consequat nisl, at dignissim erat lorem quis enim. Phasellus iaculis erat sit amet condimentum consectetur. Aliquam orci tortor, pretium at ultricies eu, auctor molestie tellus. Donec luctus lacinia augue a vestibulum. Proin vulputate dictum euismod. Quisque nec erat lacinia purus tristique dictum. Curabitur cursus rhoncus ex nec aliquet.
+2.  On Your Name.  When Jesus taught his disciples how to pray He started off with “Our Father in heaven, Hallowed be Your name.”  Jesus wanted us to respect God’s name.  The Bible continually mentions the name of the Lord as a significant force.  This song summarizes many powerful aspects of God’s name.  The melody is easy to sing and follow.
 
-Donec eu tincidunt nibh. Sed vel facilisis turpis. Fusce pulvinar mi sollicitudin turpis iaculis, quis posuere tellus tristique. Vestibulum vulputate, neque ut faucibus finibus, libero risus varius est, quis sagittis sapien nibh non ligula. Suspendisse sodales interdum diam ac ullamcorper. In magna lectus, hendrerit ut nisl non, faucibus dignissim magna. Mauris vel tincidunt turpis. Aenean eget urna eget sem venenatis tempor. Duis sodales ut est vehicula pellentesque. Mauris maximus laoreet eros quis sagittis. Donec ornare magna sit amet sapien mattis blandit. Proin tempus felis et hendrerit vehicula. Fusce semper quis diam sed vulputate. Phasellus accumsan mauris ac urna vestibulum fringilla. Sed viverra venenatis metus, et euismod neque tempor sed. Aliquam pellentesque volutpat ante, at hendrerit tellus porttitor id.
+3.  Power - inspired by Psalms 96-99.  Based off of the psalms of enthronement that describe God’s sovereign rule.
 
-Fusce quis lectus sit amet lectus interdum consequat. In ultricies lorem id massa rhoncus suscipit. Sed a ornare velit. In hac habitasse platea dictumst. In convallis iaculis ligula id fermentum. Vestibulum gravida vulputate velit, in ornare metus ultricies ac. Maecenas congue metus risus, vitae tincidunt ipsum aliquet sit amet.
+4.  Lifeline - inspired by Psalm 86.  This song speaks to the place of desperation that we all find ourselves in at some point.  We can find power when we take our eyes off the desperation of the situation and place it on the truth of God’s always present love and goodness.  That change of thought brings us to a place of surrender and hope in the desperate places.
+
+5.  All Of My Life.  This song accentuates the point of redemption when we run to God instead of running from Him.
+
+ Renewed - inspired by Psalm 1.  This song celebrates life transformation and renewal.  It humbly acknowledges God’s way as the best and expresses a desire for His way.
+
+Musicians:
+Drums: Ricky Lawson
+Bass: Gene Simons (tracks 1,2), Matt Morgan (3-6)
+Guitar: Ryan Biermann (1-6), Mark Arvizu (3,5), Mark Bratton (4,6)
+Keys: Luke Graham
+Lead Vocals: Luke Graham (1-4,6), Laura Gonzales (5), Pili Bailey (4), Josh Boyer (6)
+Background Vocals: Vanessa Barsamian (4), Dena Hempel (5,6), Cindy Lund (1,2), Stacey Percival (1,3)
+
+Song information:
+1.Strength and Song words & music by: Luke Graham © 2006 More Left Music
+2.On Your Name words & music by: Luke Graham/Matthew James © 2008 More Left Music
+3.Power words & music by: Luke Graham/Marco Sassoon © 2010 More Left Music
+4.Lifeline words & music by: Luke Graham/Pili Bailey © 2010 More Left Music
+5.All Of My Life words & music by: Marco Sassoon/Miranda Keller © 2009 CausePraise Publishing
+6.Renewed words & music by: Luke Graham/Marco Sassoon © 2009 More Left Music

@@ -1,23 +1,42 @@
 ---
 path: "/post-6/"
-category: "test"
-tags: ["tag"]
-title: "Lorem Ipsum"
-date: "2018-01-06T00:00:00.000Z"
-summary: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-images: ["images/1.jpg"]
+category: "entertainment"
+tags: ["music"]
+title: "My Top CDs From 2010"
+date: "2011-01-16T18:40:00.000Z"
+summary: "Musically speaking 2010 was a rough year for me.  Two of my favorite bands broke up:  Copeland..."
+images: ["images/mae-evening.jpg"]
 ---
 
-> Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
+### The Year The Music Died
+Musically speaking 2010 was a rough year for me.  Two of my favorite bands broke up:  Copeland and Mae.  News of the band Copeland’s breakup bummed me in the early months of 2010. Their last CD had been so strong.  I’m grateful to have spent my birthday at their farewell concert.
 
-> There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...
+Then Mae announced they were calling it quits too.  I felt like a chapter in my life was closing.  Mae’s departure left me asking “what bands that I closely follow are left?”
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed porttitor orci, a porta augue. Vestibulum augue velit, interdum in sagittis vel, gravida volutpat erat. Suspendisse ultrices tellus lorem, rhoncus finibus nisl pharetra et. Morbi aliquam, massa in sagittis imperdiet, nisi metus consequat ipsum, eu congue mi ipsum vel ante. Proin consequat libero eu facilisis aliquet. Mauris viverra malesuada elit, at suscipit est ullamcorper sed. Integer commodo ultricies ligula, ut mattis elit tincidunt sit amet. Vivamus nec sapien sit amet turpis finibus feugiat. Ut nec felis dictum, porttitor nisl eget, imperdiet lacus. Aenean lobortis purus vitae consequat molestie. Pellentesque rhoncus nunc at semper ornare. Vivamus sagittis consequat imperdiet. Fusce a lorem in mauris iaculis fermentum. Maecenas fringilla id erat in varius. Duis imperdiet posuere mi. Donec accumsan ante sed turpis hendrerit, eget mattis massa dapibus.
+Bands come and go.  There’s no point in hinging too much of my life on a group of people.  People are temporal.  God’s word is eternal.
 
-Cras fermentum mollis condimentum. Nullam eu enim id quam rhoncus molestie. Mauris ut lectus ac sapien blandit egestas. Donec dictum ornare euismod. Vivamus ac augue tristique neque convallis eleifend. In sed massa est. Nullam consectetur dapibus tempor. Donec molestie ligula lacus, ultrices placerat elit tempor non. Nulla tempor consequat condimentum. Morbi sollicitudin nulla condimentum ex maximus, vel ultricies felis bibendum. Morbi et tellus ac erat cursus euismod.
+### The Year of Mae
+The band Mae closed their career on a high note.  They released three EPs titled Morning, Afternoon and Evening.  I first purchased the Afternoon EP and enveloped myself in the songs “In Pieces”, “The Fight Song” and “Communication”.
 
-Proin dictum arcu id ultricies vestibulum. Nulla facilisi. Donec at nulla sed sapien egestas lacinia sed quis dui. In felis velit, efficitur at nibh eget, consequat commodo elit. Mauris porta, lectus at varius iaculis, metus erat consequat nisl, at dignissim erat lorem quis enim. Phasellus iaculis erat sit amet condimentum consectetur. Aliquam orci tortor, pretium at ultricies eu, auctor molestie tellus. Donec luctus lacinia augue a vestibulum. Proin vulputate dictum euismod. Quisque nec erat lacinia purus tristique dictum. Curabitur cursus rhoncus ex nec aliquet.
 
-Donec eu tincidunt nibh. Sed vel facilisis turpis. Fusce pulvinar mi sollicitudin turpis iaculis, quis posuere tellus tristique. Vestibulum vulputate, neque ut faucibus finibus, libero risus varius est, quis sagittis sapien nibh non ligula. Suspendisse sodales interdum diam ac ullamcorper. In magna lectus, hendrerit ut nisl non, faucibus dignissim magna. Mauris vel tincidunt turpis. Aenean eget urna eget sem venenatis tempor. Duis sodales ut est vehicula pellentesque. Mauris maximus laoreet eros quis sagittis. Donec ornare magna sit amet sapien mattis blandit. Proin tempus felis et hendrerit vehicula. Fusce semper quis diam sed vulputate. Phasellus accumsan mauris ac urna vestibulum fringilla. Sed viverra venenatis metus, et euismod neque tempor sed. Aliquam pellentesque volutpat ante, at hendrerit tellus porttitor id.
 
-Fusce quis lectus sit amet lectus interdum consequat. In ultricies lorem id massa rhoncus suscipit. Sed a ornare velit. In hac habitasse platea dictumst. In convallis iaculis ligula id fermentum. Vestibulum gravida vulputate velit, in ornare metus ultricies ac. Maecenas congue metus risus, vitae tincidunt ipsum aliquet sit amet.
+I was proud of what Mae accomplished with Afternoon.  The songs were strong in melody, rhythm and lyrical content.  Lead vocalist Dave Elkins opened himself up more than ever in the autobiographical song “Communication”.  It was a project I was glad to share with friends.
+
+The Morning EP hit me just as hard.  “The Fisherman Song” knocked my socks off.  I had that song on repeat for weeks.  The tempo changes, style changes and storyline gripped me.  I paraded that song before friends and family.
+
+###Rend Collective Experiment
+The Irish worship band Rend Collective Experiment gave the worship genre a fresh twist with their album Organic Family Hymnal.
+
+Church songs often contain similar phrases and language.  With the Organic Family Hymnal the band clearly abandoned many of those phrases for unique descriptions of the Christian experience.  (Example: they say “God let Your dreams come true through us” instead of the oft-used “have Your way in me”.)
+
+###Brooke Fraser - “Flags”
+The strength of Brooke’s last CD, Albertine, practically demanded my loyalty.  I don’t enjoy her new cd, Flags, as much as that earlier release.  Still I greatly enjoy the songs “Coachella”, “Who Are We Fooling” and “Ice On Her Lashes”.
+
+###Katy Perry Comeback
+After hearing her first hit (I Kissed A Girl)  I hoped Katy Perry would be a one hit wonder.  I thought she needed shock value to cover up her lack of talent.
+
+Then I heard the song “California Gurls” at a wedding.  The solid musicianship and production forced me to reevaluate Katy.  That song is catchy and fun.  It’s strong groove marks a comeback for the 70s disco feel over the typical “club” dance music.
+
+The song “Teenage Dream” also exemplifies quality production.  I haven’t bought the rest of her CD but those two songs force me to reevaluate Katy Perry.
+
+Maroon 5 deserves an honorable mention.  I got their CD, Hands All Over, for Christmas and am still sifting through it.  It’s good and I respect Mutt Lange’s production.  I especially like “Just A Feeling”.

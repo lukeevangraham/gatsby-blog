@@ -5,13 +5,10 @@ tags: ["comedy"]
 title: "Craig Ferguson"
 date: "2010-01-27T00:00:00.000Z"
 summary: "In the midst of the recent late night fiasco Craig Ferguson retains my vote for..."
-images: ["images/1.jpg"]
+images: ["images/craig-ferguson.jpg"]
 ---
 
-<object height="344" width="425"><param name="movie" value="http://www.youtube.com/v/7bbaRyDLMvA&hl=en_US&fs=1&"></param>
-<param name="allowFullScreen" value="true"></param>
-<param name="allowscriptaccess" value="always"></param>
-<embed src="http://www.youtube.com/v/7bbaRyDLMvA&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yGLzpt3caHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In the midst of the recent late night fiasco Craig Ferguson retains my vote for best late night host.  He’s funnier and has more heart than the other guys.
 
