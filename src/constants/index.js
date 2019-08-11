@@ -6,22 +6,22 @@ exports.PORTFOLIO = 'portfolio';
 exports.RESUME = 'resume';
 
 // Site Information
-exports.NAME = 'Gatsby Advanced Blog';
-exports.TITLE = 'Gatsby Advanced Blog';
-exports.PREFIX = 'WONISM | ';
-exports.DESCRIPTION = 'Create your own blog with Gatsby Advanced Blog';
-exports.AUTHOR = 'wonism';
-exports.EMAIL = 'yocee57@gmail.com';
+exports.NAME = 'Luke Graham';
+exports.TITLE = `Luke Graham's Blog`;
+exports.PREFIX = 'Luke Graham | ';
+exports.DESCRIPTION = 'Web Development Blog & Portfolio';
+exports.AUTHOR = 'Luke Graham';
+exports.EMAIL = 'luke.evan.graham@gmail.com';
 exports.KEYWORDS = [
   'Gatsby',
   'ReactJS',
 ].join(', ');
 exports.SITE_URL = 'https://wonism.github.io';
-exports.PROFILE = 'https://avatars3.githubusercontent.com/u/42737121?s=200&v=4';
+exports.PROFILE = 'https://user-images.githubusercontent.com/9114763/62829879-83230e00-bbb8-11e9-88ab-bd3b3ddcb086.png';
 
 // Social
 exports.GITHUB_ID = 'wonism';
-exports.TWITTER_ID = 'j1ism';
+exports.TWITTER_ID = 'deliriou58';
 exports.FACEBOOK_ID = 'j1.chic';
 exports.LINKEDIN_ID = 'wonism';
 
