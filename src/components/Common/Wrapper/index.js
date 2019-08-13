@@ -1,11 +1,22 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { WrapperOuter, WrapperInner } from './styled';
+import Wave from './wave.jpg';
+
+const styles = {
+  wrapperStyles: {
+    backgroundImage: `url(${Wave})`,
+    backgroundRepeat: 'no-repeat',
+    backgroundAttachment: 'scroll',
+    backgroundPosition: 'center center',
+    backgroundSize: 'cover',
+  },
+};
 
 const Wrapper = ({
   children,
 }) => (
-  <WrapperOuter>
+  <WrapperOuter style={styles.wrapperStyles}>
     <WrapperInner>
       {children}
     </WrapperInner>
