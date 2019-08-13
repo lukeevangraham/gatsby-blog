@@ -17,5 +17,6 @@ export const Title = styled.h1`
   text-align: center;
   text-overflow: ellipsis;
   overflow: hidden;
+  color: white;
   // white-space: nowrap;
 `;
