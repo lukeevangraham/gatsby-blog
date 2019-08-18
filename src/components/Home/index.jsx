@@ -7,6 +7,7 @@ import SimpleWrapper from '~/components/Common/SimpleWrapper';
 import PortfolioCard from '~/components/Common/PortfolioCard';
 import { TITLE } from '~/constants';
 import { Title } from './styled';
+import './Home.css';
 
 const Home = ({ portfolios }) => (
   <>
@@ -17,6 +18,7 @@ const Home = ({ portfolios }) => (
       <meta name="og:title" content={TITLE} />
     </Helmet>
     <Wrapper isHome>
+      <div className="intro-lead-in">Full-Stack Web Developer</div>
       <Title>
         Glad you're here!
       </Title>
