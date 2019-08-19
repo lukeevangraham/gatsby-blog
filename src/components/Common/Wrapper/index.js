@@ -5,6 +5,8 @@ import Wave from './wave.jpg';
 
 const styles = {
   wrapperStyles: {
+    textAlign: 'center',
+    color: 'white',
     backgroundImage: `url(${Wave})`,
     backgroundRepeat: 'no-repeat',
     backgroundAttachment: 'scroll',

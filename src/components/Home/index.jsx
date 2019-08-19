@@ -5,24 +5,31 @@ import Helmet from 'react-helmet';
 import Wrapper from '~/components/Common/Wrapper';
 import SimpleWrapper from '~/components/Common/SimpleWrapper';
 import PortfolioCard from '~/components/Common/PortfolioCard';
+import About from '../About';
 import { TITLE } from '~/constants';
 import { Title } from './styled';
+import '../../resources/bootstrap.min.css';
 import './Home.css';
 
 const Home = ({ portfolios }) => (
   <>
     <Helmet>
-      <title>
-        {TITLE}
-      </title>
+      <title>{TITLE}</title>
       <meta name="og:title" content={TITLE} />
     </Helmet>
     <Wrapper isHome>
-      <div className="intro-lead-in">Full-Stack Web Developer</div>
-      <Title>
-        Glad you're here!
-      </Title>
+      <div className="masthead">
+        <div className="container">
+          <div className="intro-text">
+            <div className="intro-lead-in">Full-Stack Web Developer</div>
+            <Title className="mt-n3">Luke Graham</Title>
+          </div>
+        </div>
+      </div>
     </Wrapper>
+
+    <About />
+
     {portfolios.length >= 4 ? (
       <SimpleWrapper>
         {portfolios
@@ -37,11 +44,12 @@ const Home = ({ portfolios }) => (
                     {image.includes('//') ? (
                       <img src={image} alt="portfolio" />
                     ) : (
-                      <img src={require(`~/resources/${image}`)} alt="portfolio" />
+                      <img
+                        src={require(`~/resources/${image}`)}
+                        alt="portfolio"
+                      />
                     )}
-                    <h6>
-                      {title}
-                    </h6>
+                    <h6>{title}</h6>
                   </Link>
                 </PortfolioCard>
               );
@@ -50,9 +58,7 @@ const Home = ({ portfolios }) => (
             return (
               <PortfolioCard key={path}>
                 <Link to={path}>
-                  <h4>
-                    {title}
-                  </h4>
+                  <h4>{title}</h4>
                 </Link>
               </PortfolioCard>
             );
