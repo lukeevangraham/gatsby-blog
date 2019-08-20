@@ -125,7 +125,7 @@ const Gnb = ({
                 <Home />
               </StyledLink>
             </ListMenu>
-            <ListMenu>
+            <ListMenu className="vertical-center">
               <StyledLink to="/pages/1" className={isPost ? 'active' : ''} onClick={toggleMenu}>
                 Posts
               </StyledLink>

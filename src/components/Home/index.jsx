@@ -11,6 +11,12 @@ import { Title } from './styled';
 import '../../resources/bootstrap.min.css';
 import './Home.css';
 
+const styles = {
+  leadIn: {
+    fontSize: '40px',
+  },
+};
+
 const Home = ({ portfolios }) => (
   <>
     <Helmet>
@@ -21,7 +27,7 @@ const Home = ({ portfolios }) => (
       <div className="masthead">
         <div className="container">
           <div className="intro-text">
-            <div className="intro-lead-in">Full-Stack Web Developer</div>
+            <div style={styles.leadIn} className="intro-lead-in mg-5">Full-Stack Web Developer</div>
             <Title className="mt-n3">Luke Graham</Title>
           </div>
         </div>

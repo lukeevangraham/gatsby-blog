@@ -5,9 +5,9 @@ export const Title = styled.h1`
   @import url("https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic");
   @import url("https://fonts.googleapis.com/css?family=Roboto+Slab");
 
-  font-size: 50px;
+  font-size: 75px;
   font-weight: 700;
-  line-height: 50px;
+  line-height: 75px;
   margin-bottom: 25px;
 
 
