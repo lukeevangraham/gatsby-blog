@@ -108,7 +108,7 @@ const PostWrapper = styled.section`
     white-space: -hp-pre-wrap;
     word-wrap: break-word;
     background: transparent;
-    color: #fefefe;
+    color: #3B9CFF;
     display: inline;
     font-family: D2Coding, 'D2 coding', monospace, serif;
     max-width: 100%;
