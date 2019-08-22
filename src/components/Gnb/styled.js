@@ -105,7 +105,7 @@ export const ListMenu = styled.li`
   }
 
   a {
-    color: ${({ theme: { color } }) => color};
+    color: #fefefe;
   }
 
   ul {
