@@ -7,15 +7,13 @@ import SimpleWrapper from '~/components/Common/SimpleWrapper';
 import PortfolioCard from '~/components/Common/PortfolioCard';
 import About from '../About';
 import { TITLE } from '~/constants';
-import { Title } from './styled';
+import {
+  Title,
+  LeadIn,
+} from './styled';
 import '../../resources/bootstrap.min.css';
 import './Home.css';
 
-const styles = {
-  leadIn: {
-    fontSize: '40px',
-  },
-};
 
 const Home = ({ portfolios }) => (
   <>
@@ -27,7 +25,7 @@ const Home = ({ portfolios }) => (
       <div className="masthead">
         <div className="container">
           <div className="intro-text">
-            <div style={styles.leadIn} className="intro-lead-in mg-5">Full-Stack Web Developer</div>
+            <LeadIn className="intro-lead-in mg-5">Full-Stack Web Developer</LeadIn>
             <Title className="mt-n3">Luke Graham</Title>
           </div>
         </div>
