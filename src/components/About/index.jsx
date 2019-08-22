@@ -9,6 +9,7 @@ const styles = {
     color: '#000000',
     fontWeight: 700,
     fontSize: '40px',
+    fontFamily: 'Montserrat, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji',
   },
   name: {
     fontSize: '1.5rem',
