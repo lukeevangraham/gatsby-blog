@@ -53,6 +53,7 @@ export const GnbWrapper = styled.div`
   font-weight: 400;
   z-index: 3000;
   text-transform: uppercase;
+  background-color: #212529;
 
   @media (max-width: 414px) {
     height: 60px;
@@ -65,7 +66,7 @@ export const GnbWrapper = styled.div`
 export const List = styled.ul`
   display: flex;
   align-items: center;
-  height: 80px;
+  height: 54px;
   margin-bottom: 0;
 
   @media (max-width: 414px) {
@@ -75,7 +76,7 @@ export const List = styled.ul`
 
 export const SubMenu = styled.ul`
   position: absolute;
-  top: 40px;
+  top: 30px;
   line-height: 1.8em;
   background-color: ${({ theme: { backgroundColor } }) => backgroundColor};
   font-size: 12px;
@@ -124,10 +125,16 @@ export const ListMenu = styled.li`
 `;
 
 export const Home = styled(FaHome)`
-  font-size: 36px;
+  font-size: 26px;
 `;
 
 export const StyledLink = styled(Link)`
+  font-size: 90%;
+  font-weight: 400;
+  padding: 0.75em 0;
+  letter-spacing: 1px;
+  font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+
   @media (max-width: 414px) {
     &[href="/"] {
       display: flex;
@@ -138,7 +145,7 @@ export const StyledLink = styled(Link)`
 
   &.active {
     color: ${PRIMARY_COLOR};
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   &:hover {
@@ -153,7 +160,7 @@ export const SearchBarWrapper = styled.div`
   bottom: 0;
   right: 0;
   width: 276px;
-  margin: auto;
+  margin: 0;
   padding: 0 36px 0 0;
   text-align: right;
 
@@ -166,8 +173,8 @@ export const SearchBarWrapper = styled.div`
 
   label {
     position: absolute;
-    top: 28px;
-    right: 36px;
+    top: 17px;
+    right: 47px;
     padding: 0 8px 0 0;
     z-index: 1001;
 
@@ -184,7 +191,7 @@ export const SearchBar = styled.input`
   top: 0;
   bottom: 0;
   right: 36px;
-  margin: auto;
+  margin: 12px;
   padding: 0 .4em;
   width: 240px;
   height: 2.4em;

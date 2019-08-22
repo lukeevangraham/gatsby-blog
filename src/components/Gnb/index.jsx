@@ -31,6 +31,7 @@ const initialState = {
   isMenuOpened: false,
   isSubMenuClosed: false,
   searchKeyword: '',
+  isDracula: true,
 };
 
 const reducer = (state = initialState, action) => {
