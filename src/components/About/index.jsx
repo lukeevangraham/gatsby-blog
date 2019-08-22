@@ -58,7 +58,7 @@ const About = () => (
             </ul>
           </div>
         </div>
-        <div className="row mb-5">
+        <div className="row mb-5 p-2">
           <div className="col-md-8 mx-auto new-about text-center">
             <p style={styles.roboSlab} className="large about-p text-muted">
               A husband and father I have been building websites since 1995. In
