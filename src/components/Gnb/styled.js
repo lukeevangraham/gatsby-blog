@@ -173,7 +173,7 @@ export const SearchBarWrapper = styled.div`
 
   label {
     position: absolute;
-    top: 17px;
+    top: 19px;
     right: 47px;
     padding: 0 8px 0 0;
     z-index: 1001;
