@@ -78,7 +78,7 @@ export const SubMenu = styled.ul`
   position: absolute;
   top: 30px;
   line-height: 1.8em;
-  background-color: ${({ theme: { backgroundColor } }) => backgroundColor};
+  background-color: #212529;
   font-size: 12px;
   font-weight: 500;
   overflow: hidden;
