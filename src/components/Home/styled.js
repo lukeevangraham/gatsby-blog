@@ -17,6 +17,7 @@ export const Title = styled.h1`
   text-overflow: ellipsis;
   overflow: hidden;
   color: white;
+  text-shadow: 0 0 10px #000000;
 
   @media (min-width: 768px) {
     font-size: 75px;
@@ -47,4 +48,5 @@ export const LeadIn = styled.div`
   font-family: "Droid Serif", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    text-shadow: 0 0 10px #000000;
 `;

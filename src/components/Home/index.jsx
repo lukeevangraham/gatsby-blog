@@ -24,7 +24,7 @@ const Home = ({ portfolios }) => (
     <Wrapper isHome>
       <div className="masthead">
         <div className="container">
-          <div className="intro-text pb-5">
+          <div className="intro-text">
             <LeadIn className="intro-lead-in mg-5">Full-Stack Web Developer</LeadIn>
             <Title className="mt-n3">Luke Graham</Title>
           </div>
