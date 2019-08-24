@@ -1,6 +1,6 @@
 ---
 path: "/post-3/"
-category: "test-33"
+category: "entertainment"
 tags: ["music"]
 title: "New 'Eyes Up' EP"
 date: "2010-04-23T00:00:00.000Z"
