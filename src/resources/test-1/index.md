@@ -21,6 +21,6 @@ images: [
 
 
 
-<a href="https://github.com/lukeevangraham/Word-Guess-Game" target="_blank">View GitHub Repository <i class="fab fa-github"></i> → </a>
+<a href="https://github.com/lukeevangraham/Word-Guess-Game" target="_blank">View GitHub Repository →</a>
 
 <a href="https://lukeevangraham.github.io/Word-Guess-Game/" target="_blank">Go to Web Site →</a>
