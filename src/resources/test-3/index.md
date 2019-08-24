@@ -11,12 +11,13 @@ images: [
 # Travel Trivia
 
 ## What I did
-- Developed a trivia game using timers, JavaScript for the logic and jQuery to manipulate the HTML
+- Developed a trivia game using JavaScript (for the timers and logic) and jQuery to manipulate the HTML
 
 ## Libraries / Tools
 - jQuery
 - Javascript
 - Timers
+- Bootstrap
 - HTML
 - CSS
 
