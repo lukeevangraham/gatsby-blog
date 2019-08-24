@@ -1,24 +1,27 @@
 ---
 type: "portfolio"
-title: "Gatsby Advanced Blog"
+title: "GifLandmarks"
 date: "2018-01-04:00:00.000Z"
 path: "/portfolios/portfolio-4/"
 images: [
-  "test-4/7.png",
-  "test-4/8.png",
-  "test-4/9.png",
+  "test-4/7.jpg",
 ]
 ---
 
-# Gatsby Advanced Blog
+# GifLandmarks
 
 ## What I did
-- Develop Gatsby Advanced Blog
+- Developed a dynamic web page that populates with gifs from the GIPHY API
 
 ## Libraries / Tools
-- ReactJS
-- Redux
-- Redux saga
-- ...
+- Ajax
+- GIPHY API
+- jQuery
+- JavaScript
+- Bootstrap
+- HTML
+- CSS
 
-[Go to Web Site →](https://github.com/wonism/gatsby-advanced-blog)
+<a href="https://github.com/lukeevangraham/GifTastic" target="_blank">View GitHub Repository →</a>
+
+<a href="https://lukeevangraham.github.io/GifTastic/" target="_blank">Go to Web Site →</a>

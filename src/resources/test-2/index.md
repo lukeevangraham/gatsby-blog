@@ -11,7 +11,7 @@ images: [
 # Crystals Collector
 
 ## What I did
-- Build a dynamically updating game with the jQuery library
+- Built a dynamically updating game with the jQuery library
 
 ## Libraries / Tools
 - jQuery
