@@ -1,23 +1,25 @@
 ---
 type: "portfolio"
-title: "Gatsby Advanced Blog"
+title: "Travel Trivia"
 date: "2018-01-03T00:00:00.000Z"
 path: "/portfolios/portfolio-3/"
 images: [
-  "test-3/5.png",
-  "test-3/6.png",
+  "test-3/5.jpg",
 ]
 ---
 
-# Gatsby Advanced Blog
+# Travel Trivia
 
 ## What I did
-- Develop Gatsby Advanced Blog
+- Developed a trivia game using timers, JavaScript for the logic and jQuery to manipulate the HTML
 
 ## Libraries / Tools
-- ReactJS
-- Redux
-- Redux saga
-- ...
+- jQuery
+- Javascript
+- Timers
+- HTML
+- CSS
 
-[Go to Web Site →](https://github.com/wonism/gatsby-advanced-blog)
+<a href="https://github.com/lukeevangraham/TriviaGame" target="_blank">View GitHub Repository →</a>
+
+<a href="https://lukeevangraham.github.com/TriviaGame" target="_blank">Go to Web Site →</a>
