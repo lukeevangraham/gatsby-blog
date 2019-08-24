@@ -48,6 +48,10 @@ export const PortfolioDescription = styled.section`
   a {
     text-decoration: underline;
   }
+  
+  i {
+    font-size: 21px;
+  }
 `;
 
 export const PortfolioImages = styled.section`

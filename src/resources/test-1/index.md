@@ -1,23 +1,26 @@
 ---
 type: "portfolio"
-title: "Gatsby Advanced Blog"
+title: "Hangman"
 date: "2018-01-01T00:00:00.000Z"
 path: "/portfolios/portfolio-1/"
 images: [
-  "test-1/1.png",
-  "test-1/2.png",
+  "test-1/1.jpg",
 ]
 ---
 
-# Gatsby Advanced Blog
+# Hangman
 
 ## What I did
-- Develop Gatsby Advanced Blog
+- Developed vanilla JavaScript based word guessing game
 
 ## Libraries / Tools
-- ReactJS
-- Redux
-- Redux saga
-- ...
+- JavaScript (Vanilla)
+- Bootstrap
+- HTML
+- CSS
 
-[Go to Web Site →](https://github.com/wonism/gatsby-advanced-blog)
+
+
+<a href="https://github.com/lukeevangraham/Word-Guess-Game" target="_blank">View GitHub Repository <i class="fab fa-github"></i> → </a>
+
+<a href="https://lukeevangraham.github.io/Word-Guess-Game/" target="_blank">Go to Web Site →</a>
