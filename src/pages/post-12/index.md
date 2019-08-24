@@ -5,7 +5,7 @@ tags: ["music"]
 title: "My Top Albums from 2012"
 date: "2013-01-10T00:00:00.000Z"
 summary: "When it comes to music and technology I have learned some things that others may find useful..."
-images: ["images/surfingForGod.jpg"]
+images: ["images/sakeOfTheWorld.jpg"]
 ---
 
 Each January I enjoying asking "What musical releases were significant last year?  Here are my favorite albums from 2012.
