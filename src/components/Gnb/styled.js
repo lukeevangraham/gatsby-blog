@@ -307,7 +307,7 @@ export const MobileMenus = styled.div`
   padding: 0 16px;
   width: 80%;
   height: 100%;
-  background-color: ${({ theme: { backgroundColor } }) => backgroundColor};
+  background-color: #212529;
   transition: left.4s ease-out .1s;
   z-index: 3;
   overflow-y: auto;
