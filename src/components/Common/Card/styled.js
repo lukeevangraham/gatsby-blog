@@ -61,7 +61,7 @@ export const StyledArticle = styled.article`
   }
 
   a {
-    color: ${({ theme: { color } }) => color};
+    color: #212529;
 
     &:hover {
       h3,
