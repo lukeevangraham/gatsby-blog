@@ -24,6 +24,7 @@ const PostWrapper = styled.section`
   time {
     margin: 1em 0;
     font-size: 14px;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   }
 
   @import url("https://fonts.googleapis.com/css?family=Inconsolata");
