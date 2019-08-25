@@ -7,6 +7,7 @@ export const Tags = styled.div`
     margin: 0 0 0 4px;
     color: #000;
     text-decoration: blink;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 
     &:hover {
       text-decoration: underline;

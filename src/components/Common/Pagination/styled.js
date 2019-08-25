@@ -14,5 +14,6 @@ export const Wrapper = styled.nav`
   li {
     display: flex;
     padding: 0 .4em;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   }
 `;
