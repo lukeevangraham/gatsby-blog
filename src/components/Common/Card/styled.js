@@ -84,6 +84,7 @@ export const StyledArticle = styled.article`
     display: block;
     margin: 10px 0 0;
     font-size: 12px;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   }
 
   p {
@@ -91,6 +92,8 @@ export const StyledArticle = styled.article`
     height: 106px;
     line-height: 1.4em;
     font-size: 16px;
+    color: #6c757d;
+    font-family: 'Roboto Slab', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 
     span {
       white-space: nowrap;
@@ -100,5 +103,6 @@ export const StyledArticle = styled.article`
   small {
     margin: 0 0 0 4px;
     font-size: 14px;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   }
 `;
