@@ -61,9 +61,9 @@ const About = () => (
         <div className="row mb-5 p-2">
           <div className="col-md-8 mx-auto new-about text-center">
             <p style={styles.roboSlab} className="large about-p text-muted">
-              A husband and father I have been building websites since 1995. In
-              addition to web development I help non-profits plan experiences
-              where thoughtful people receive wisdom and camaraderie.
+            A husband and father I have been building websites since
+              1995. My HTML5 and CSS skills propelled me to hone skills in JavaScript,
+              Bootstrap, MySQL, React.js, jQuery, Mongo, Handlebars, Node.js and more.
             </p>
             <p style={styles.roboSlab} className="large about-p text-muted">
               Organizations depend on me to deliver high-quality customer
